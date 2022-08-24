@@ -1,6 +1,6 @@
 ﻿namespace PWebBrowser
 {
-    partial class Form1
+    partial class Browser
     {
         /// <summary>
         /// Required designer variable.
@@ -50,17 +50,17 @@
             this.wbBrowser.Size = new System.Drawing.Size(395, 286);
             this.wbBrowser.TabIndex = 2;
             // 
-            // Form1
+            // Browser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(395, 306);
             this.Controls.Add(this.wbBrowser);
             this.Controls.Add(this.txtURL);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "Browser";
+            this.Text = "Browser";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Browser_FormClosed);
+            this.Load += new System.EventHandler(this.Browser_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

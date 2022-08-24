@@ -11,20 +11,20 @@ using System.IO;
 
 namespace PWebBrowser
 {
-    public partial class Form1 : Form
+    public partial class Browser : Form
     {
         private string strINIFile = "browser.ini";
         private const string HeadWindow = "[Window]";
         private const string HeadBrowser = "[Browser]";
 
 
-        public Form1()
+        public Browser()
         {
             InitializeComponent();
         }
 
         // Form closing event handler
-        private void Form1_FormClosed(Object sender, FormClosedEventArgs e)
+        private void Browser_FormClosed(Object sender, FormClosedEventArgs e)
         {
             StreamWriter sw = new StreamWriter(new FileInfo(strINIFile).Open(FileMode.Create));
 
@@ -43,7 +43,7 @@ namespace PWebBrowser
         }
 
         // Form loading event handler
-        private void Form1_Load(object sender, EventArgs e)
+        private void Browser_Load(object sender, EventArgs e)
         {
             try
             {
