@@ -1,0 +1,18 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\bin\Debug\PWebBrowser.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\bin\Debug\PWebBrowser.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\bin\Debug\PWebBrowser.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\obj\Debug\PWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\obj\Debug\PWebBrowser.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\obj\Debug\PWebBrowser.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\obj\Debug\PWebBrowser.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\obj\Debug\PWebBrowser.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\PWebBrowser\obj\Debug\PWebBrowser.pdb
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\bin\Debug\PWebBrowser.exe.config
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\obj\Debug\PWebBrowser.exe
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\obj\Debug\PWebBrowser.pdb
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\bin\Debug\PWebBrowser.exe
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\bin\Debug\PWebBrowser.pdb
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\obj\Debug\PWebBrowser.csprojResolveAssemblyReference.cache
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\obj\Debug\PWebBrowser.Form1.resources
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\obj\Debug\PWebBrowser.Properties.Resources.resources
+D:\Users\Преподавание\Программирование\dl\150File\PWebBrowser\PWebBrowser\obj\Debug\PWebBrowser.csproj.GenerateResource.Cache
